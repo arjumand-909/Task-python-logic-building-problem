@@ -1,6 +1,7 @@
 
 
  # Python Logic Building Problems with Physics Context
+ 
 This repository contains beginner-friendly Python programs designed to strengthen logic through real-world physics problems. Each program uses a physics formula, takes user input, 
 
 and prints results with proper units. The focus is on clarity and learning, making it useful for students, educators, and peer reviewers.
@@ -30,11 +31,15 @@ Prints the result with units and clear formatting
 Run any problem by opening the notebook or executing the code cell.
 # File Information
 ## File name: 
-## Colab link:
+## Colab link:  https://colab.research.google.com/drive/1pl_PTNw5_tmTOfEPkE1CTRFqcmfkcS1_?usp=sharing
 
- Ideal For
+ ## Ideal For
 Physics students learning Python basics
+
+
 Peer educators preparing annotated notebooks
+
+
 Certification prep with logic-based examples
 
 
