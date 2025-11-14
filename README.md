@@ -6,13 +6,13 @@ This repository contains beginner-friendly Python programs designed to strengthe
 
 and prints results with proper units. The focus is on clarity and learning, making it useful for students, educators, and peer reviewers.
 
- ## Problem Overview
+##        Problem Overview
 
+| #   | Topic                          | Formula                                   | Output      |
+|-----|--------------------------------|-------------------------------------------|-------------|
+| **1** | Distance using Speed & Time    | $ \text{Distance} = \text{Speed} \times \text{Time} $ | Distance (m) |
+| **2** | Force using Newton’s Second Law| $ \text{Force} = \text{Mass} \times \text{Acceleration} $ | Force (N)   |
 
-|  | **Topic** | **Formula** | **Output** |
-| :---: | :--- | :--- | :--- |
-| **1** | Distance using Speed & Time | Distance $ = \text{Speed}  \times \text{Time}$ | Distance (m) |
-| **2** | Force using Newton’s Second Law | Force $ = \text{Mass} \times \text{Acceleration}$ | Force (N) |
 | **3** | Gravitational Potential Energy | $PE = mgh$ | Energy (J) |
 | **4** | Kinetic Energy | $KE = \frac{1}{2}mv^2$ | Energy (J) |
 | **5** | Voltage using Ohm’s Law | $V = IR$ | Voltage (V) |
