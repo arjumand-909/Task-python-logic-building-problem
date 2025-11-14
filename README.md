@@ -8,7 +8,7 @@ and prints results with proper units. The focus is on clarity and learning, maki
 
 ##        Problem Overview
 
-# Details of the problems ## Problem Overview
+# ### Details of the problems 
 
 | #   | Topic                          | Formula                                   | Output      |
 |-----|--------------------------------|-------------------------------------------|-------------|
